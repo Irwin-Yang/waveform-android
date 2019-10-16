@@ -7,6 +7,11 @@
 
 # Java class files
 *.class
+*.iml
+
+app/*.iml
+library/*.iml
+gradle/
 
 # Generated files
 bin/
